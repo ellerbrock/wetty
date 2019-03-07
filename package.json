@@ -12,7 +12,7 @@
         "grunt": "^1.0.1",
         "grunt-shell": "^2.1.0",
         "grunt-mkdir": "^1.0.0",
-        "grunt-git": "^1.0.1",
+        "grunt-git": "^1.0.11",
         "grunt-contrib-clean": "^1.0.0"
     },
     "description": "Wetty = Web + tty. Terminal access in browser over http/https ",
