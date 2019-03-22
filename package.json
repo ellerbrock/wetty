@@ -9,7 +9,7 @@
     },
     "devDependencies": {
         "load-grunt-tasks": "^3.0",
-        "grunt": "^1.0.1",
+        "grunt": "^1.0.4",
         "grunt-shell": "^2.1.0",
         "grunt-mkdir": "^1.0.0",
         "grunt-git": "^1.0.1",
